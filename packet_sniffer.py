@@ -1,5 +1,6 @@
 import socket
 from scapy.all import *
+from scapy.layers.l2 import Ether
 
 sniffer_socket = socket.socket(socket.AF_PACKET, socket.SOCK_RAW, socket.ntohs(3))
 try:
