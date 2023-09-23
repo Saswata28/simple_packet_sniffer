@@ -17,7 +17,7 @@ Step 3) Now just go to the cloned github repo:
 
       cd simple_packet_sniffer
       
-Step 4) Now to run the script you nedd root privilage so run:
+Step 4) Now to run the script you need root privilage so run:
 
 For Windows run command prompt as administrator then type:
 
